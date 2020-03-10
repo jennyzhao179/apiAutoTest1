@@ -1,0 +1,2 @@
+INFO     root:login.py:20 testid手机用户开始登录
+INFO     root:test_pb_ex_qy_article.py:48 更新后的信息头是={'Content-Type': 'application/json', 'Authorization': 'Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1ODM4Mzk3MzYsImFkbWluaXN0cmF0b3JfaWQiOjIsInJlZnJlc2giOmZhbHNlfQ.Ze8iJOaCtQBWDKPky3C4-OKnWfdhRgofnl53VkjQ41U'}
