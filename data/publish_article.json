@@ -1,0 +1,9 @@
+{"test_publish_article":
+         {"article_title":"武汉加油啊{}",
+           "content": "湖北加油啊{}",
+           "channel_id": 1,
+           "status_code": 201,
+           "msg": "OK"
+         }
+
+}
